@@ -16,12 +16,16 @@ body{
 
 .iz{
     align-items: center;
+    display: flex;
+    justify-items: center;
+    align-content: center;
     padding: 28px;
-    width: 645.53px;
+    padding-left: 30px;
+    width: 50%;
 }
 
 .der{
-    width: 677px;
+    width: 50%;
     background-color: #1f1e21;
     padding-top: 50px;
     
