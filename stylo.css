@@ -10,6 +10,8 @@ body{
 
 .grande{
     display: flex;
+    width: 1920px;
+    height: 1080px;
 }
 
 .iz{
